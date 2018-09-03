@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:hacklabterni/ofxOpenCv.git
 	branch = 0.9.8-0.0.x
-	commit = 102905ba77ef2e54c84ae8adee151de312f61c00
+	commit = 57d69a6ec91e6cdb211fe3f8953a13f8be58243a
 	method = merge
 	cmdver = 0.4.0
-	parent = 685e1bb2d209289ff968fd0cc3a7f5d28cab677e
+	parent = bdeec820fb3434a90826ced9f3045852894e4367
